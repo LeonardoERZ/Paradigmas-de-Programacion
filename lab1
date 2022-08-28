@@ -1,0 +1,50 @@
+======================================================================
+	 	Mini instructivo de UNIX
+======================================================================
+i)  ls/dir 	 : Comando para listra lo que hay en el directorio
+
+ii) mkdir Nombre : Hacer un directorio con su nombre
+
+iii) cd Nombre	 : Cambiar de directorio
+
+iv)  cd..	 : Directorio anterior
+
+v)   cd/../../.. : 3 Directorios anteriores
+
+vi)  pwd	 : Directorio actual
+
+vii) rm   	 : Borrar archivo
+======================================================================
+		Mini instructivo de Vim
+======================================================================
+i)    vi Nombre	 : Crea un archivo en Vim 
+
+ii)   i		 : Insertar 
+
+iii)  Esc	 : Salir del comando
+
+iv)   x		 : Borra 
+
+v)    R		 : Reemplazar 
+
+vi)   :wq        : Salir y guardar 
+
+vii)  :w	 : Guardar
+
+viii) :q! 	 : Salir y no guardar nada 
+
+ix)   :$	 : Ir a la ultima linea 
+
+x)    :x (:100)  : Va a la linea x (linea 100)
+
+xi)   o		 : Abre renglón abajo
+
+xii)  O  	 : Abre renglón arriba 
+
+xiii) dd	 : Borrar la linea donde estoy
+
+xv)   /palabra   : Busca la palabra 
+
+xvi)  n		 : Próxima aparición de la palabra
+
+ 
