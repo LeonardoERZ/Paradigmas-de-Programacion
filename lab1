@@ -1,50 +1,82 @@
 ======================================================================
-	 	Mini instructivo de UNIX
+		Mini instructivo de UNIX-VI-GIT/GITHUB 
+		     Paradigmas de Programación
+
+Nombre: Rivera Zacarias Leonardo Enrique
+Grupo:  2AV1
+Prof:   Dr. Julian Tercero Becerra Sagredo
 ======================================================================
-i)  ls/dir 	 : Comando para listra lo que hay en el directorio
+		Mini instructivo de UNIX
+======================================================================
+i) ls/dir : Comando para listra lo que hay en el directorio
 
 ii) mkdir Nombre : Hacer un directorio con su nombre
 
-iii) cd Nombre	 : Cambiar de directorio
+iii) cd Nombre : Cambiar de directorio
 
-iv)  cd..	 : Directorio anterior
+iv) cd.. : Directorio anterior
 
-v)   cd/../../.. : 3 Directorios anteriores
+v) cd/../../.. : 3 Directorios anteriores
 
-vi)  pwd	 : Directorio actual
+vi) pwd : Directorio actual
 
-vii) rm   	 : Borrar archivo
+# vii) rm : Borrar archivo
 ======================================================================
-		Mini instructivo de Vim
+    		Mini instructivo de Vim (VI)
 ======================================================================
-i)    vi Nombre	 : Crea un archivo en Vim 
+i) vi Nombre : Crea un archivo en Vim
 
-ii)   i		 : Insertar 
+ii) i : Insertar
 
-iii)  Esc	 : Salir del comando
+iii) Esc : Salir del comando
 
-iv)   x		 : Borra 
+iv) x : Borra
 
-v)    R		 : Reemplazar 
+v) R : Reemplazar
 
-vi)   :wq        : Salir y guardar 
+vi) :wq : Salir y guardar
 
-vii)  :w	 : Guardar
+vii) :w : Guardar
 
-viii) :q! 	 : Salir y no guardar nada 
+viii) :q! : Salir y no guardar nada
 
-ix)   :$	 : Ir a la ultima linea 
+ix) :$ : Ir a la ultima linea
 
-x)    :x (:100)  : Va a la linea x (linea 100)
+x) :x (:100) : Va a la linea x (linea 100)
 
-xi)   o		 : Abre renglón abajo
+xi) o : Abre renglón abajo
 
-xii)  O  	 : Abre renglón arriba 
+xii) O : Abre renglón arriba
 
-xiii) dd	 : Borrar la linea donde estoy
+xiii) dd : Borrar la linea donde estoy
 
-xv)   /palabra   : Busca la palabra 
+xv) /palabra : Busca la palabra
 
-xvi)  n		 : Próxima aparición de la palabra
+# xvi) n : Próxima aparición de la palabra
+======================================================================
+    		Mini instructivo de Git/GitHub
+======================================================================
+i) git init : Iniciamos Git
 
- 
+ii) Entrar a su cuenta en github.com
+
+iii) Crear un repositorio "Paradigmas de Programación"
+
+iv) git clone URL : Clonar un repositorio, insertar URL del repositorio
+
+v) Subir al directorio del repositorio
+
+vi) Crear o copiar el archivo que vamos a subir a la nube
+
+vii) git add "nombre del archivo": Añadir archivo
+
+viii) git commit -m "String" : Descripción del archivo añadido
+
+ix) git push : Sube el archivo a la nube
+
+x) Password es un Token de GitHub (se obtiene en configuraciones)
+======================================================================
+		FIN DEL MINI INSTRUCTIVO
+======================================================================
+
+
